@@ -1,2 +1,2 @@
 # Tree
-This project is about ..
+This project is about my new Idea
